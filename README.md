@@ -1,12 +1,12 @@
 ## oblique-qt5
 
-<b>Oblique</b> calcula alcance, altura e tempo de voo de um projétil.
+<b>Oblique</b> Calculates range, height, and flight time of a projectile.
 
-Esta versão de Oblique para desktop, sistema operacional [Linux](https://www.canonical.com/) foi escrita usando Qt5 e Qt Quick 2.
+This version of Oblique for desktop, [Linux](https://www.canonical.com/) operating system was written using Qt5 and Qt Quick 2.
 
-Use o Qt Creator com este código-fonte para criar o arquivo de instalação.
+Use Qt Creator, version 5.8 with this source code to create the installation file.
 
-## Lançamento de Projétil
+## Launch of Projectile
 
-Uma partícula é jogada com velocidade inicial em um ângulo θ em relação ao eixo horizontal (lançamento oblíquo) sob a ação de aceleração da gravidade, atuando verticalmente para baixo, impondo uma trajetória parabólica resultante da composição de dois Movimentos.
+A particle is thrown with initial velocity at an angle θ relative to the horizontal axis (oblique launch) under the action of acceleration of gravity, acting vertically downwards, imposing a parabolic trajectory resulting from the composition of two Movements.
 
